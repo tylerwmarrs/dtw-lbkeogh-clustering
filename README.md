@@ -1,7 +1,7 @@
 Dynamic Time Warping Clustering with LB_Keogh
 =============================================
 
-This is an example repository for how to cluster time series using DTW with the LB_Keogh lower-bounding method.
+This is an example repository for how to cluster time series using DTW with the LB_Keogh lower-bounding method. This implementation uses K-Means clustering (model as DTWClustering), an unsupervised clustering approach. If enough interest arises, I will show how to perform supervised KNN using these computations. 
 
 Citations
 ---------
